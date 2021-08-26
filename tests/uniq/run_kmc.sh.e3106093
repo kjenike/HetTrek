@@ -1,0 +1,4 @@
+mkdir: cannot create directory ‘SIMULATION’: File exists
+mkdir: cannot create directory ‘KMC’: File exists
+mkdir: cannot create directory ‘KMC/tmp’: File exists
+Error: cannot open file: SIMULATION/simulatedreads_template1_g10000_cov40_rl1000_err1.0_het1.0_indel1.fastaError: Cannot open file KMC/g10k_k35.kmc_pre

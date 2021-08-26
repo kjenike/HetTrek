@@ -1,0 +1,16 @@
+1st stage: 1.44942s
+2nd stage: 0.666188s
+3rd stage: 0.013549s
+Total    : 2.12915s
+Tmp size : 0MB
+Tmp size strict memory : 0MB
+Tmp total: 0MB
+
+Stats:
+   No. of k-mers below min. threshold :            0
+   No. of k-mers above max. threshold :            0
+   No. of unique k-mers               :        52848
+   No. of unique counted k-mers       :        52848
+   Total no. of k-mers                :       170285
+   Total no. of sequences             :          199
+   Total no. of super-k-mers          :        11575
